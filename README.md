@@ -1,4 +1,4 @@
-# EasySploit Modified By rc-chuah
+# EasySploit Modified By RaynerSec
 EasySploit v4.2 (Termux) - Metasploit automation (EASIER and FASTER than EVER) 
 
 # Disclaimer:
@@ -36,7 +36,7 @@ EasySploit v4.2 (Termux) - Metasploit automation (EASIER and FASTER than EVER)
 
 # How to install:
 
-git clone https://github.com/rc-chuah/easysploit-termux.git
+git clone https://github.com/RaynerSec/easysploit-termux.git
  
 cd easysploit
 
