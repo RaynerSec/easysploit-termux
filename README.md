@@ -38,9 +38,11 @@ EasySploit v4.2 (Termux) - Metasploit automation (EASIER and FASTER than EVER)
 
 git clone https://github.com/RaynerSec/easysploit-termux.git
  
-cd easysploit
+cd easysploit-termux
 
-bash installer.sh
+chmod +x installer.sh
+
+./installer.sh
 
 # How to run (after installation):
 
