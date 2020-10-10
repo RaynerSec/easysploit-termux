@@ -44,6 +44,10 @@ chmod +x installer.sh
 
 ./installer.sh
 
+# How to uninstall:
+
+./uninstaller.sh
+
 # How to run (after installation):
 
 Type anywhere in your termux "easysploit".
